@@ -1,0 +1,13 @@
+
+Create Table A (Aid int, Name varchar(20))
+insert Into A values(1,'Sam')
+insert Into A values(2,'tom')
+insert Into A values(3,'harry')
+insert Into A values(4,'katich')
+insert Into A values(5,'kate')
+Create Table B (Bid int, Name varchar(20),Aid int)
+insert Into B values(11,'harry',3)
+insert Into B values(12,'katich',4)
+insert Into B values(13,'kate',5)
+insert Into B values(14,'mate',6)
+insert Into B values(15,'sat',7)
