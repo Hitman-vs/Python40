@@ -6,4 +6,9 @@ vs()
 def Ram ():
     print ("This is your modified some task like your need")
     print ("you want to do practice more and more for learing this")
-vs()
+Ram()
+
+def am ():
+    print ("This is your modified some task like your need")
+    print ("you want to do practice more and more for learing this")
+am()
